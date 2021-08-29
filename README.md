@@ -14,18 +14,6 @@
 
 <p align="center">"<i>My skills are making things work, not knowing a billion facts. [...] If I need to fix a system I’ll identify the problem, check the logs and look up the errors. If I need to implement a solution I’ll research the right solution, implement and document it, the later on only really have a general idea of how it works unless I interact with it frequently... it’s why it’s documented.</i>" - Sparcrypt (Reddit)</p>
 
-<br>
-
-<p align="center">
-  <a href="https://github.com/trimstray/test-your-sysadmin-skills/pulls">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
-  </a>
-  <a href="LICENSE.md">
-    <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true" alt="MIT License">
-  </a>
-</p>
-
-<br>
 
 ****
 
@@ -39,15 +27,6 @@
 
 :traffic_light: &nbsp;If you find something which doesn't make sense, or something doesn't seem right, **please make a pull request** and please add valid and well-reasoned explanations about your changes or comments.
 
-:books: &nbsp;In order to improve your knowledge/skills please see [devops-interview-questions](https://github.com/bregman-arie/devops-interview-questions). It looks really interesting.
-
-<br>
-
-<p align="center">
-  » <b><code><a href="https://github.com/trimstray/test-your-sysadmin-skills/issues">All suggestions are welcome</a></code></b> «
-</p>
-
-<br>
 
 ## Table of Contents
 
